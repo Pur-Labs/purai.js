@@ -12,6 +12,8 @@ npm install purai.js
 
 ### Setup
 
+First, you need to get an API key from the [PurAI](https://discord.gg/purlabs-1117511140440821852) Discord server.
+
 ```js
 const { PurAi, ApiStyle } = require('purai.js');
 
