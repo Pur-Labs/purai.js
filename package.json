@@ -5,12 +5,47 @@
         "build": "node scripts/build.js",
         "start": "node dist/index.js"
     },
-    "dependencies": {
+    "devDependencies": {
         "@types/node": "^20.10.6",
         "@typescript-eslint/eslint-plugin": "^6.16.0",
         "eslint-config-prettier": "^9.1.0",
         "eslint-plugin-prettier": "^5.1.2",
         "eslint-plugin-simple-import-sort": "^10.0.0",
         "eslint-plugin-unused-imports": "^3.0.0"
-    }
+    },
+    "name": "purai",
+    "description": "NPM package for PurAI API",
+    "version": "1.0.0-beta.1",
+    "keywords": [
+        "pur",
+        "ai",
+        "gpt",
+        "artificial",
+        "intelligence",
+        "api",
+        "wrapper",
+        "typescript",
+        "npm",
+        "package",
+        "npm",
+        "javascript",
+        "ts",
+        "js"
+    ],
+    "author": "Tolgchu",
+    "license": "CC-BY-NC-ND-4.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Pur-Labs/purai.js.git"
+    },
+    "homepage": "https://github.com/Pur-Labs/purai.js#readme",
+    "bugs": {
+        "url": "https://github.com/Pur-Labs/purai.js/issues"
+    },
+    "funding": [
+        {
+            "type": "github",
+            "url": "https://github.com/sponsors/Tolga1452"
+        }
+    ]
 }

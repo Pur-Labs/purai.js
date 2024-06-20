@@ -41,7 +41,6 @@
         "no-unneeded-ternary": ["error", { "defaultAssignment": false }],
         "no-invalid-regexp": "error",
         "no-constant-condition": ["error", { "checkLoops": false }],
-        "no-extra-semi": "error",
         "dot-notation": "error",
         "for-direction": "error",
 
